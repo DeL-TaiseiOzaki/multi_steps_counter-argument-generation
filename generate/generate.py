@@ -3,19 +3,21 @@ import json
 import logging
 import sys
 import os
+# プロジェクトのルートディレクトリをシステムパスに追加
+project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, project_root)
+
 from config import (
     openai_api_key,
     groq_api_key,
     prompt_path,
-    evaluation_index_path,
     models
 )
 from utils.logging_config import setup_logging
-from utils.file_handlers import load_prompts, load_evaluation_index
+from utils.file_handlers import load_prompts
 
 from models.ai_models import get_ai_client
-from generators.counterargument import generate_counterargument
-from evaluators.argument_evaluator import evaluate_arguments
+from generators.counterargument_generator import generate_counterargument
 
 def load_input_data(file_path: str) -> list:
     try:
@@ -34,7 +36,6 @@ def load_input_data(file_path: str) -> list:
 def main():
     setup_logging()
     prompts = load_prompts(prompt_path)
-    evaluation_criteria = load_evaluation_index(evaluation_index_path)
 
     parser = argparse.ArgumentParser(description="Counter-Argument Generator")
     parser.add_argument("--models", nargs='+', required=True, help="AI models to use")
@@ -42,9 +43,7 @@ def main():
     parser.add_argument("--max-tokens", type=int, required=True, help="Max tokens for generation")
     parser.add_argument("--conditions", nargs='+', required=True, help="Conditions to use (x1, x2, x3, x4)")
     parser.add_argument("--input", type=str, required=True, help="Path to input JSON file")
-    parser.add_argument("--output", type=str, default='output.json', help="Path to output JSON file")
-    parser.add_argument("--evaluation-model", type=str, default='gpt-4o-2024-08-06', help="Model to use for evaluation")
-    parser.add_argument("--criteria-ids", nargs='+', type=int, required=True, help="IDs of evaluation criteria to use")
+    parser.add_argument("--output", type=str, default='generated_counterarguments.json', help="Path to output JSON file")
     args = parser.parse_args()
 
     # APIキーの設定
@@ -66,8 +65,7 @@ def main():
         result_item = {
             'topic': topic,
             'affirmative_argument': affirmative_argument,
-            'counterarguments': {},
-            'evaluation_results': {}
+            'counterarguments': {}
         }
 
         # 各モデルについて反論を生成
@@ -100,42 +98,12 @@ def main():
 
             result_item['counterarguments'][model_name] = counterarguments
 
-        # 評価用にカウンターアーギュメントをテキスト形式で整形
-        for model_name, counterarguments in result_item['counterarguments'].items():
-            counter_arguments_text = ""
-            for idx, (cond, cnt_arg) in enumerate(counterarguments.items(), start=1):
-                counter_arguments_text += f"{idx}. {cnt_arg}\n"
-
-            # 指定された評価指標のみを使用
-            selected_criteria = [crit for crit in evaluation_criteria['evaluation_criteria'] if crit['id'] in args.criteria_ids]
-
-            if not selected_criteria:
-                logging.warning(f"No evaluation criteria matched the specified IDs: {args.criteria_ids}")
-                continue
-
-            # 評価を実行
-            if counterarguments:
-                eval_client = get_ai_client("openai", {'openai_api_key': openai_api_key})
-                eval_model = args.evaluation_model
-
-                try:
-                    evaluation_results = evaluate_arguments(
-                        eval_client, eval_model, topic, affirmative_argument,
-                        counter_arguments_text, selected_criteria,
-                        temperature=args.temperature, max_tokens=args.max_tokens
-                    )
-                    result_item['evaluation_results'][model_name] = evaluation_results
-                    print(f"Evaluation completed for model {model_name} on topic '{topic}'")
-                except Exception as e:
-                    error_message = f"An error occurred during evaluation for model {model_name}: {e}\n"
-                    logging.error(error_message)
-
         all_results.append(result_item)
 
     # 結果を出力
     with open(args.output, 'w', encoding='utf-8') as f:
         json.dump(all_results, f, ensure_ascii=False, indent=2)
-    print(f"Output written to {args.output}")
+    print(f"Generated counterarguments saved to {args.output}")
 
 if __name__ == "__main__":
     main()

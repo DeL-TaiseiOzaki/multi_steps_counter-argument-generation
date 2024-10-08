@@ -33,32 +33,37 @@ def generate_counterargument(client, topic: str, affirmative_argument: str, prom
     ]
 
     try:
+        premise_list = extract_premise(affirmative_argument)
+        
         if condition == "x1":
-            premise_prompt = prompts["x1_premise_generation_prompt"].replace("#topic#", topic).replace("#argument#", affirmative_argument)
+            premise_prompt = prompts["x1"]["premise_generation_prompt"].replace("#topic#", topic).replace("#argument#", affirmative_argument)
             conversation_history.append({"role": "user", "content": premise_prompt})
-            premise_list = generate_response(client, conversation_history, model, temperature, max_tokens)
-            conversation_history.append({"role": "assistant", "content": premise_list})
+            generated_premise_list = generate_response(client, conversation_history, model, temperature, max_tokens)
+            conversation_history.append({"role": "assistant", "content": generated_premise_list})
 
-            decision_prompt = prompts["x1_premise_decision_prompt"]
+            decision_prompt = prompts["x1"]["premise_decision_prompt"]
             conversation_history.append({"role": "user", "content": decision_prompt})
             chosen_premise = generate_response(client, conversation_history, model, temperature, max_tokens)
             conversation_history.append({"role": "assistant", "content": chosen_premise})
 
-            counterargument_prompt = prompts["x1_counter-argument_generation_prompt"]
+            counterargument_prompt = prompts["x1"]["counter-argument_generation_prompt"]
             conversation_history.append({"role": "user", "content": counterargument_prompt})
 
         elif condition in ["x2", "x3"]:
-            premise_list = extract_premise(affirmative_argument)
-            decision_prompt = prompts[f"{condition}_premise_decision_prompt"].replace("#topic#", topic).replace("#argument#", affirmative_argument).replace("###premise_list###", premise_list)
+            decision_prompt = prompts[condition]["premise_decision_prompt"].replace("#topic#", topic).replace("#argument#", affirmative_argument).replace("###premise_list###", premise_list)
             conversation_history.append({"role": "user", "content": decision_prompt})
             chosen_premise = generate_response(client, conversation_history, model, temperature, max_tokens)
             conversation_history.append({"role": "assistant", "content": chosen_premise})
 
-            counterargument_prompt = prompts[f"{condition}_counter-argument_generation_prompt"]
+            counterargument_prompt = prompts[condition]["counter-argument_generation_prompt"]
             conversation_history.append({"role": "user", "content": counterargument_prompt})
 
-        elif condition == "x4":
-            counterargument_prompt = prompts["x4_counter-argument_generation_prompt"].replace("#topic#", topic).replace("#argument#", affirmative_argument)
+        elif condition in ["x4", "x6"]:
+            counterargument_prompt = prompts[condition]["counter-argument_generation_prompt"].replace("#topic#", topic).replace("#argument#", affirmative_argument)
+            conversation_history.append({"role": "user", "content": counterargument_prompt})
+
+        elif condition == "x5":
+            counterargument_prompt = prompts[condition]["counter-argument_generation_prompt"].replace("#topic#", topic).replace("#argument#", affirmative_argument).replace("###premise_list###", premise_list)
             conversation_history.append({"role": "user", "content": counterargument_prompt})
 
         else:

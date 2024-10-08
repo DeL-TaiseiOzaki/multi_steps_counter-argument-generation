@@ -1,0 +1,52 @@
+{
+    "evaluation_criteria": [
+      {
+        "id": 1,
+        "name": "(Multiple Choice)  Relevance to the topic",
+        "description": "This criterion evaluates whether the counter-argument appropriately addresses the affirmative argument. It considers two main points: 1) Is it truly a counter-argument (not introducing a new argument or attacking something unrelated to the affirmative argument)? 2) If it is a counter-argument, does it successfully attack a premise that the affirmative argument relies on? An effective counter-argument should demonstrate a clear understanding of the opponent's logical structure and target its core aspects accurately.",
+        "result":[0,0,0,0]
+      },
+      {
+        "id": 2,
+        "name": "(Multiple Choice) Logical consistency",
+        "description": "This criterion assesses whether the counter-argument stays within the bounds of the debate topic. An effective counter-argument should consistently focus on the central issues of the debate. Diversions into unrelated topics or peripheral arguments, even if interesting, should be avoided as they detract from the main discussion. Each part of the counter-argument should clearly demonstrate its relevance to the main topic of debate.",
+        "result":[0,0,0,0]
+      },
+      {
+        "id": 3,
+        "name": "(Multiple Choice) Multiple supporting reasons",
+        "description": "This item evaluates whether the logical progression of the counter-argument is natural and without unreasonable jumps. From an expert's perspective, each logical step should be appropriate, and there should be no unnatural leaps in reasoning. The path to the conclusion should be clear, with each step logically connected to the next. While the judgment of what constitutes an 'unreasonable' leap can be somewhat subjective, it should be based on general rules of logic and the sensibilities of debate experts in the field.",
+        "result":[0,0,0,0]
+      },
+      {
+        "id": 4,
+        "name": "(Multiple Choice) Use of specific examples ",
+        "description": "This criterion assesses whether multiple reasons are provided to support the counter-argument. Generally, an argument becomes stronger when supported by multiple reasons. Providing various perspectives or angles to support the counter-argument increases its persuasiveness. However, it's not just about quantity; the quality and relevance of each reason are also important. Ideally, multiple strong reasons should complement each other, forming a coherent and compelling counter-argument.",
+        "result":[0,0,0,0]
+      },
+      {
+        "id": 5,
+        "name": "(Multiple Choice) Attacking the premise on which affirmative argument stands",
+        "description": "This standard evaluates the effective use of appropriate specific examples in the counter-argument. Concrete examples can make abstract arguments more understandable and increase the persuasiveness of the claim. The evaluation considers: 1) Whether specific examples are included in the counter-argument's claims or reasoning, 2) If these examples are appropriate in the context of the debate, and 3) From an expert's perspective, whether these examples effectively weaken the opponent's argument. Ideal examples should clearly illustrate the point, facilitate audience understanding, and strengthen the counter-argument. However, overuse of examples or selection of inappropriate ones should be avoided.",
+        "result":[0,0,0,0]
+      },
+      {
+        "id": 6,
+        "name": "(Ranking) Attacking a more critical premise",
+        "description": "This item assesses the criticality of the premise being attacked. The main criterion is whether the attack targets a premise that is crucial to supporting the opponent's argument. However, it's not just about importance; attacking premises that are less thoroughly explained in the opponent's argument can be more effective. Premises that are too central to the opponent's argument might be well-explained and harder to attack. The ideal target is a premise that is both important and somewhat under-explained, providing more room for effective counter-argumentation.",
+        "result":[]
+      },
+      {
+        "id": 7,
+        "name": "(Ranking) Attacking a more implicit premise",
+        "description": "This criterion evaluates how implicit the attacked premise is. Debates involve both explicit premises (clearly stated) and implicit premises (assumed but not stated). Attacks on more implicit premises are rated higher. However, the reasoning shouldn't be too far-fetched; it should target implicit premises that can be logically derived through several steps of reasoning within the bounds of the argument. Such attacks are often more effective as they address assumptions the opponent might not have consciously considered.",
+        "result":[]
+      },
+      {
+        "id": 8,
+        "name": "(Ranking) The counter-argument is overall more strong ",
+        "description": "This item evaluates the overall effectiveness of the counter-argument. It primarily considers the following elements: 1) The criticality of the points being attacked in the counter-argument (based on the definition in item 2), 2) The quality of reasoning and structural strength that enhances the validity of the attack, 3) The overall offensive power from the perspective of an expert debate judge. An effective counter-argument accurately identifies and targets important premises of the opponent's argument, developing a persuasive attack against them. Simultaneously, it's crucial that the logical structure supporting this attack is robust, with reasoning from multiple angles. This assessment takes into account the results of items 1 through 7, judging the overall offensive capability of the counter-argument. Ultimately, the key to evaluation is how much this counter-argument weakens the opponent's position and strengthens one's own stance.",
+        "result":[]
+    }
+    ]
+  }
