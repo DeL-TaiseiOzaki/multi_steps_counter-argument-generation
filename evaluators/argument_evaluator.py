@@ -25,7 +25,7 @@ def analyze_debate(client, model, topic, affirmative_argument, counter_arguments
         temperature=temperature,
         max_tokens=max_tokens
     )
-    return response.choices[0].message['content']
+    return response.choices[0].message.content
 
 def evaluate_selection(client, model, topic, affirmative_argument, counter_arguments, selection_criteria, criteria_description, analysis, prompts, temperature=0, max_tokens=1000):
     """選択式の評価を行います。"""
@@ -47,7 +47,7 @@ def evaluate_selection(client, model, topic, affirmative_argument, counter_argum
         temperature=temperature,
         max_tokens=max_tokens
     )
-    return response.choices[0].message['content']
+    return response.choices[0].message.content
 
 def evaluate_ranking(client, model, topic, affirmative_argument, counter_arguments, ranking_criteria, criteria_description, analysis, prompts, temperature=0, max_tokens=1000):
     """ランキング式の評価を行います。"""
@@ -69,7 +69,7 @@ def evaluate_ranking(client, model, topic, affirmative_argument, counter_argumen
         temperature=temperature,
         max_tokens=max_tokens
     )
-    return response.choices[0].message['content']
+    return response.choices[0].message.content
 
 def evaluate_arguments(client, model, topic, affirmative_argument, counter_arguments, evaluation_criteria, prompts, temperature=0, max_tokens=1000):
     """指定された評価指標のみを使用して評価を行います。"""

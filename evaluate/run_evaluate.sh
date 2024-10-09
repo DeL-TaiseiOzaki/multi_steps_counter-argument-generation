@@ -19,17 +19,17 @@ TEMPERATURE=0
 MAX_TOKENS=1000
 
 # 入力ファイルのパス（生成された反論のファイル）
-INPUT_FILE="generated_counterarguments.json"
+INPUT_FILE="/home/del_taiseiozaki/multi_steps_counter-argument-generation/ss_generated_counterarguments.json"
 
 # 出力ファイルのパス
-OUTPUT_FILE="evaluation_results.json"
+OUTPUT_FILE="2evaluation_results.json"
 
 # ===============================
 # スクリプトの実行
 # ===============================
 
 # evaluate.pyを実行
-python3 evaluate.py \
+python3 evaluate/evaluate.py \
   --input "$INPUT_FILE" \
   --output "$OUTPUT_FILE" \
   --evaluation-model "$EVALUATION_MODEL" \

@@ -3,6 +3,9 @@ import json
 import logging
 import sys
 import os
+# プロジェクトのルートディレクトリをシステムパスに追加
+project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, project_root)
 from config import (
     openai_api_key,
     evaluation_index_path,
@@ -24,6 +27,12 @@ def load_generated_data(file_path: str) -> list:
     except Exception as e:
         logging.error(f"Error loading generated data from {file_path}: {e}")
         sys.exit(1)
+
+def extract_counterargument(counter_arg):
+    for step in counter_arg['steps']:
+        if step['step'] == 'counterargument_generation':
+            return step['output']
+    return None
 
 def main():
     setup_logging()
@@ -61,13 +70,17 @@ def main():
         item['evaluation_results'] = {}
 
         # 各モデルについて評価を実行
-        for model_name, counterarguments in item['counterarguments'].items():
+        for model_name, model_counterarguments in item['counterarguments'].items():
             counter_arguments_text = ""
-            for idx, (cond, cnt_arg) in enumerate(counterarguments.items(), start=1):
-                counter_arguments_text += f"{idx}. {cnt_arg}\n"
+            for idx, (key, counter_arg) in enumerate(model_counterarguments.items(), start=1):
+                counterargument = extract_counterargument(counter_arg)
+                if counterargument:
+                    counter_arguments_text += f"{idx}. {counterargument}\n"
+                else:
+                    logging.warning(f"No counterargument found for {key} in model {model_name} on topic '{topic}'")
 
             if counter_arguments_text.strip() == "":
-                logging.warning(f"No counterarguments to evaluate for model {model_name} on topic '{topic}'")
+                logging.warning(f"No valid counterarguments to evaluate for model {model_name} on topic '{topic}'")
                 continue
 
             try:
