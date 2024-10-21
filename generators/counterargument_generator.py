@@ -67,7 +67,7 @@ def generate_counterargument(client, topic: str, affirmative_argument: str, prom
             counterargument_prompt = prompts[condition]["counter-argument_generation_prompt"].replace("#topic#", topic).replace("#argument#", affirmative_argument)
             conversation_history.append({"role": "user", "content": counterargument_prompt})
 
-        elif condition == ["x5","x6"]:
+        elif condition in ["x5","x6"]:
             counterargument_prompt = prompts[condition]["counter-argument_generation_prompt"].replace("#topic#", topic).replace("#argument#", affirmative_argument).replace("###premise_list###", premise_list)
             conversation_history.append({"role": "user", "content": counterargument_prompt})
 

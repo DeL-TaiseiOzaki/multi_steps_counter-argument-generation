@@ -3,6 +3,7 @@ import json
 import logging
 import sys
 import os
+from tqdm import tqdm
 
 # プロジェクトのルートディレクトリをシステムパスに追加
 project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -70,7 +71,7 @@ def main():
 
     all_results = []
 
-    for input_item in input_data:
+    for input_item in tqdm(input_data, desc="Processing items"):
         item_id = input_item['id']
         
         if id_list and item_id not in id_list:
@@ -96,6 +97,7 @@ def main():
             })
 
             counterarguments = {}
+            print(args.conditions)
             for condition in args.conditions:
                 if condition not in ["x1", "x2", "x3", "x4", "x5", "x6", "x7"]:
                     logging.warning(f"Skipping invalid condition: {condition}")

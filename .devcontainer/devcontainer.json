@@ -1,0 +1,18 @@
+{
+    "name": "multi_steps_counter-argument-generation",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "settings": {
+        "python.pythonPath": "/usr/local/bin/python"
+    },
+    "runArgs": [ "--gpus", "all" ],
+    "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter"
+    ],
+    "postCreateCommand": "docker-compose up -d && pip install torch transformer --index-url https://download.pytorch.org/whl/cu118 && apt-get update && apt-get install -y git",
+    "remoteUser": "root",
+    "shutdownAction": "stopContainer",
+    "updateContentCommand": "git pull"
+}

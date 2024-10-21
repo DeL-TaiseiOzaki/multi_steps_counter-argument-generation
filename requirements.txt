@@ -1,2 +1,4 @@
 openai
 groq
+irrCAC
+pingouin

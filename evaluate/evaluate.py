@@ -6,6 +6,7 @@ import os
 # プロジェクトのルートディレクトリをシステムパスに追加
 project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, project_root)
+
 from config import (
     openai_api_key,
     evaluation_index_path,
@@ -28,12 +29,6 @@ def load_generated_data(file_path: str) -> list:
         logging.error(f"Error loading generated data from {file_path}: {e}")
         sys.exit(1)
 
-def extract_counterargument(counter_arg):
-    for step in counter_arg['steps']:
-        if step['step'] == 'counterargument_generation':
-            return step['output']
-    return None
-
 def main():
     setup_logging()
     evaluation_criteria = load_evaluation_index(evaluation_index_path)
@@ -46,6 +41,7 @@ def main():
     parser.add_argument("--criteria-ids", nargs='+', type=int, required=True, help="IDs of evaluation criteria to use")
     parser.add_argument("--temperature", type=float, required=True, help="Temperature for evaluation")
     parser.add_argument("--max-tokens", type=int, required=True, help="Max tokens for evaluation")
+    parser.add_argument("--evaluation-targets", type=str, required=True, help="Comma-separated list of x values to evaluate (e.g., 'x4,x5,x6,x7')")
     args = parser.parse_args()
 
     # APIキーの設定
@@ -64,23 +60,25 @@ def main():
 
     generated_data = load_generated_data(args.input)
 
+    # 評価対象のxを解析
+    evaluation_targets = args.evaluation_targets.split(',')
+
     for item in generated_data:
         topic = item['topic']
         affirmative_argument = item['affirmative_argument']
         item['evaluation_results'] = {}
 
         # 各モデルについて評価を実行
-        for model_name, model_counterarguments in item['counterarguments'].items():
+        for model_name, counterarguments in item['counterarguments'].items():
             counter_arguments_text = ""
-            for idx, (key, counter_arg) in enumerate(model_counterarguments.items(), start=1):
-                counterargument = extract_counterargument(counter_arg)
-                if counterargument:
-                    counter_arguments_text += f"{idx}. {counterargument}\n"
-                else:
-                    logging.warning(f"No counterargument found for {key} in model {model_name} on topic '{topic}'")
+            for x in evaluation_targets:
+                if x in counterarguments:
+                    cond = list(counterarguments[x].keys())[0]  # 通常は 'counterargument' キーのみ
+                    cnt_arg = counterarguments[x][cond]
+                    counter_arguments_text += f"{x}. {cnt_arg}\n"
 
             if counter_arguments_text.strip() == "":
-                logging.warning(f"No valid counterarguments to evaluate for model {model_name} on topic '{topic}'")
+                logging.warning(f"No counterarguments to evaluate for model {model_name} on topic '{topic}'")
                 continue
 
             try:

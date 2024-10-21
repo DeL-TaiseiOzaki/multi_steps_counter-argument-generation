@@ -10,7 +10,7 @@ set -e
 EVALUATION_MODEL="gpt-4o-2024-08-06"
 
 # 評価に使用する指標のID（スペース区切りで指定）
-CRITERIA_IDS="1 2 3 4 5 6 7 8"
+CRITERIA_IDS="6 7 8"
 
 # テンプレートの設定
 TEMPERATURE=0
@@ -19,10 +19,13 @@ TEMPERATURE=0
 MAX_TOKENS=1000
 
 # 入力ファイルのパス（生成された反論のファイル）
-INPUT_FILE="/home/del_taiseiozaki/multi_steps_counter-argument-generation/ss_generated_counterarguments.json"
+INPUT_FILE="generated_counterarguments.json"
 
 # 出力ファイルのパス
-OUTPUT_FILE="2evaluation_results.json"
+OUTPUT_FILE="evaluation_results_4-7.json"
+
+# 評価対象のx（カンマ区切りで指定）
+EVALUATION_TARGETS="x4,x5,x6,x7"
 
 # ===============================
 # スクリプトの実行
@@ -35,4 +38,5 @@ python3 evaluate/evaluate.py \
   --evaluation-model "$EVALUATION_MODEL" \
   --criteria-ids $CRITERIA_IDS \
   --temperature "$TEMPERATURE" \
-  --max-tokens "$MAX_TOKENS"
+  --max-tokens "$MAX_TOKENS" \
+  --evaluation-targets "$EVALUATION_TARGETS"
