@@ -1,0 +1,5428 @@
+[
+  {
+    "topic": "Should male infant circumcision be considered a form of child abuse?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should goal-line technology be implemented in professional football matches?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should Major League Baseball expand the use of instant replay for reviewing umpire decisions?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should open primaries be the primary method for selecting election candidates?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "This House believes that electronic and internet voting should be implemented in state-organized elections.",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should the United States use military force to stop other countries from developing nuclear weapons?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should Christian churches permit the ordination of openly gay and lesbian individuals as priests?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Is belief in a higher power rational or irrational?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should consumers prioritize purchasing locally produced food over other options?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Is it too late to effectively address global climate change?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should airports implement targeted security profiling based on passenger characteristics and behavior instead of universal screening methods?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should governments implement censorship measures on the Internet to protect society and individuals from harmful content?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should all U.S. presidential primary elections be held on a single day?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should governments eliminate financial support for agricultural producers?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should religious organizations be prohibited from operating schools within the public education system?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should the media have the right to scrutinize the private lives of public figures?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should the Reproductive Health Bill in the Philippines be implemented, given its potential impact on families and traditional values?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should blasphemy be made a criminal offense?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should nations prioritize and invest heavily in space exploration and colonization?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should Major League Baseball continue to allow collisions at home plate?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should universities use affirmative action policies to increase diversity in student admissions?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should fines for low-level criminal offenses be proportional to an individual's income?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Is widespread advertising more beneficial or detrimental to society?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should governments eliminate financial support for agricultural producers?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should governments have the authority to limit freedom of speech in certain circumstances?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should sadomasochistic practices between consenting adults be decriminalized?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "This House believes that corporate use of intellectual property laws for event sponsorship threatens free expression and public engagement.",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should nations worldwide enhance protections for migrants' economic and social rights, considering the differing interests of net receiving and net source countries?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "This House believes that force-feeding should be used as a treatment for severe cases of Anorexia Nervosa.",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Is zero tolerance policing an effective strategy for reducing crime rates?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should the BBC have the freedom to broadcast content that may be considered blasphemous?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Is marriage still relevant in modern society?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should cohabiting couples be granted legal rights to divide property and assets upon separation, similar to married couples in divorce proceedings?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Is pursuing a law degree worth the financial investment?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should cannabis be legalized for recreational use?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "This House believes that establishing a permanent human settlement on the Moon should be a priority for space exploration.",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should goal-line technology be implemented in professional football matches?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should same-sex couples have the legal right to adopt children?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should governments provide funding to preserve and promote Braille literacy as a matter of free speech and accessibility?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "This House would encourage Western companies to develop software that protects the anonymity of activists in authoritarian regimes.",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should governments criminalize regular visits to extremist websites as a counter-terrorism measure?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Is atheism the most rational worldview?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should higher education be provided free of charge to all citizens?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should copyright protection periods be significantly shortened?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should the cultivation of coca leaves be legalized for traditional and non-drug purposes?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should Bavaria be allowed to publish Hitler's \"Mein Kampf\" for educational and critical purposes?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should universities use affirmative action policies to increase diversity in student admissions?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Revised topic: Should media outlets be required to provide equal coverage and promotion of women's and men's sports?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Can nationalism serve as a positive force for society and national development?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should the 2022 FIFA World Cup in Qatar be moved from summer to winter?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should the cultivation of coca leaves be legalized for traditional and non-drug purposes?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should all museums be made free of charge to the public?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should history be removed from school curricula?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should schools teach abstinence-only sex education instead of comprehensive sex education?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should consumers prioritize purchasing locally produced food over other options?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "nThis House believes that universities should only receive state funding if they make all academic work publicly accessible",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should governments provide funding for needle exchange programs to reduce harm among intravenous drug users?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should affirmative action policies be implemented to address historical discrimination and promote equal opportunities?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should the United States use military force to stop other countries from developing nuclear weapons?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should countries that employ extreme or abusive training methods for athletes be banned from international sporting competitions?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should museums return cultural artifacts to their countries of origin?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should governments implement censorship measures on the Internet to protect society and individuals from harmful content?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should blasphemy be made a criminal offense?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Does organized religion contribute more positively or negatively to society?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should goal-line technology be implemented in professional football matches?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should consumers prioritize purchasing locally produced food over other options?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "This House supports the extraction and use of unconventional oil resources, such as oil sands and oil shale.",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Revised topic: Should media outlets be required to provide equal coverage and promotion of women's and men's sports?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should football clubs be required to limit the number of overseas players in their starting lineups?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "This House would encourage Western companies to develop software that protects the anonymity of activists in authoritarian regimes.",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should history be removed from school curricula?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should Bavaria be allowed to publish Hitler's \"Mein Kampf\" for educational and critical purposes?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should illegal immigrants be granted driver's licenses?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should Tibet be granted independence from China?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should college football implement a playoff system to determine the national champion?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "This House believes that universities should only receive state funding if they make all academic work publicly accessible",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Is feminism still necessary in today's society?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "This House believes that establishing a permanent human settlement on the Moon should be a priority for space exploration.",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "llama": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should museums return cultural artifacts to their countries of origin?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should the European Union abolish the Schengen Agreement and reinstate internal border controls?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "This House believes that out-of-town shopping centers are beneficial for communities",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Has Evolution Conclusively Disproven Creationism?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should illegal immigrants be granted driver's licenses?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should governments implement a graduated response system to address unauthorized file-sharing of copyrighted material?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should NATO continue to expand its membership to include new countries?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should nations adopt underground storage for nuclear waste disposal?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Has Evolution Conclusively Disproven Creationism?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should open primaries be the primary method for selecting election candidates?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Is marriage still relevant in modern society?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Is feminism still necessary in today's society?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should the media have the right to scrutinize the private lives of public figures?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should individuals have a legally protected right to respond to media reports they believe have unfairly portrayed or defamed them?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should governments implement censorship measures on the Internet to protect society and individuals from harmful content?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should the Democratic Party eliminate its superdelegate system in presidential nominating conventions?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1,2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should parents be allowed to genetically screen fetuses for hereditary diseases?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2,1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should trade unions' collective bargaining rights be abolished?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "A two-state solution is the best approach to resolve the Israeli-Palestinian conflict.",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Should affirmative action policies be implemented to address historical discrimination and promote equal opportunities?",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "This House believes that establishing a permanent human settlement on the Moon should be a priority for space exploration.",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[1, 2]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1, 2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2, 1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ]
+    }
+  },
+  {
+    "topic": "This House would encourage Western companies to develop software that protects the anonymity of activists in authoritarian regimes.",
+    "x1": "x2",
+    "x2": "x5",
+    "evaluation_results": {
+      "mini": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[1,2]"
+        }
+      ],
+      "gpt": [
+        {
+          "id": 6,
+          "name": "(Ranking) Attacking a More Critical Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 7,
+          "name": "(Ranking) Attacking a More Implicit Premise",
+          "result": "[2,1]"
+        },
+        {
+          "id": 8,
+          "name": "(Ranking) The Counter-Argument Is Overall Stronger",
+          "result": "[2, 1]"
+        }
+      ]
+    }
+  }
+]
